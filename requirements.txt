@@ -1,0 +1,4 @@
+kaggle_environments
+numpy
+matplotlib
+seaborn
